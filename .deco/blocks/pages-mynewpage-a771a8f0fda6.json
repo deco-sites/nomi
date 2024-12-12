@@ -1,1 +1,29 @@
-{"name":"My New Page","path":"/example-path","sections":[{"__resolveType":"site/sections/Hero.tsx"},{"__resolveType":"site/sections/SimpleTextList.tsx"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "My New Page",
+  "path": "/example-path",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "Discover Something Cool",
+      "description": "Explore the latest trends and innovations that are shaping our world. From cutting-edge technology to groundbreaking ideas, we've got something cool for everyone.",
+      "image": "https://example.com/cool-hero-image.jpg",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "/explore",
+          "text": "Explore Now",
+          "outline": false
+        },
+        {
+          "href": "/learn-more",
+          "text": "Learn More",
+          "outline": true
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/SimpleTextList.tsx"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

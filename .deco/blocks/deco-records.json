@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://nomi-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "76bc254baef8ba3453e30cd81fb807e88c37675f1753795f2fcd0bb2c2a3ea87f626017b2c1e1cf5e85ccc58d7f86d6d33200369c0a5ac6ffe7d97bd9b9612d0231aaca22d770cf00232bc10c156ad75cde5341b6cb96aa49625df35e01c8a05e6a191c07c2c538d8721022f4431988f6eda677ffa670f180e5f234becf2a8d78a30489de7dd7030055b8165c85740f30e3668c5d3db9413ac3e5876bab03d8a8535bc3199a2f4ae56ddc5ac978e9017356e1760eac81f6f98d09f58217cc967564a16d0fa68188207ea23104b6ff892428a2b1eddd75708f87048373ea2166f"
+  }
+}
